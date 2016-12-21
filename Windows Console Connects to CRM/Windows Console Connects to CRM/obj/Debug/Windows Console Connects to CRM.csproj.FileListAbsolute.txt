@@ -1,0 +1,14 @@
+c:\users\admbmander\documents\visual studio 2015\Projects\Windows Console Connects to CRM\Windows Console Connects to CRM\bin\Debug\Windows Console Connects to CRM.exe.config
+c:\users\admbmander\documents\visual studio 2015\Projects\Windows Console Connects to CRM\Windows Console Connects to CRM\bin\Debug\Windows Console Connects to CRM.exe
+c:\users\admbmander\documents\visual studio 2015\Projects\Windows Console Connects to CRM\Windows Console Connects to CRM\bin\Debug\Windows Console Connects to CRM.pdb
+c:\users\admbmander\documents\visual studio 2015\Projects\Windows Console Connects to CRM\Windows Console Connects to CRM\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\admbmander\documents\visual studio 2015\Projects\Windows Console Connects to CRM\Windows Console Connects to CRM\bin\Debug\Microsoft.Xrm.Client.dll
+c:\users\admbmander\documents\visual studio 2015\Projects\Windows Console Connects to CRM\Windows Console Connects to CRM\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\admbmander\documents\visual studio 2015\Projects\Windows Console Connects to CRM\Windows Console Connects to CRM\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+c:\users\admbmander\documents\visual studio 2015\Projects\Windows Console Connects to CRM\Windows Console Connects to CRM\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+c:\users\admbmander\documents\visual studio 2015\Projects\Windows Console Connects to CRM\Windows Console Connects to CRM\bin\Debug\Microsoft.Xrm.Client.xml
+c:\users\admbmander\documents\visual studio 2015\Projects\Windows Console Connects to CRM\Windows Console Connects to CRM\bin\Debug\Microsoft.Xrm.Sdk.xml
+c:\users\admbmander\documents\visual studio 2015\Projects\Windows Console Connects to CRM\Windows Console Connects to CRM\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+c:\users\admbmander\documents\visual studio 2015\Projects\Windows Console Connects to CRM\Windows Console Connects to CRM\obj\Debug\Windows Console Connects to CRM.csprojResolveAssemblyReference.cache
+c:\users\admbmander\documents\visual studio 2015\Projects\Windows Console Connects to CRM\Windows Console Connects to CRM\obj\Debug\Windows Console Connects to CRM.exe
+c:\users\admbmander\documents\visual studio 2015\Projects\Windows Console Connects to CRM\Windows Console Connects to CRM\obj\Debug\Windows Console Connects to CRM.pdb
